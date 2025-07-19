@@ -1,0 +1,15 @@
+{
+  "name": "ethos-farcaster-frame",
+  "version": "1.0.0",
+  "description": "Warpcast Frame to check Ethos scores and mutuals for Farcaster users.",
+  "main": "frame.js",
+  "scripts": {
+    "start": "node frame.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "express": "^4.18.2",
+    "node-fetch": "^2.7.0",
+    "pureimage": "^0.4.18"
+  }
+}
