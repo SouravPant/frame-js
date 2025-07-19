@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "frame.js", "use": "@vercel/node" }
+  ],
+  "routes": [
+    { "src": "/frame", "dest": "/frame.js" }
+  ]
+}
