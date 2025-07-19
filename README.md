@@ -1,0 +1,2 @@
+# frame-js
+farcaster+ethos
